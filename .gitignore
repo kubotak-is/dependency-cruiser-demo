@@ -19,3 +19,9 @@ Thumbs.db
 # Vite
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+# dependency-cruiser
+dependency-cruiser.dot
+dependency-cruiser.dot.svg
+dependency-cruiser.html
+dependency-cruiser.json
